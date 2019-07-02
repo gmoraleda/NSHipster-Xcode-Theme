@@ -1,3 +1,4 @@
+![Screenshot](Screenshot.png)
 # Installation
 ```
 Copy file to FontAndColorThemes directory:
